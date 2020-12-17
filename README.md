@@ -13,3 +13,5 @@
 【 助理友推 [机场](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/youlian/jichang.md) 】         
 【 [openclash.ipk发布地址](https://github.com/vernesong/OpenClash/releases) 】          
 更多其他信息可见于：[x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)       
+
+[返回主页](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)           
