@@ -1,7 +1,7 @@
 # clashOpenWRT
 
 【 x86_64clashOpenWRT #Hyird #多插件 编译 】           
-【 192.168.1.1 #password 】         
+【 192.168.1.1 password 】         
 【 [升级、切换、回滚、重置](https://t.me/OpenWRTcn/48) 】          
 【 [相关说明见主频道](https://t.me/OpenWRTcn) 内置顶信息 】          
 【 [openclash插件反馈区](https://github.com/vernesong/OpenClash/issues) 】                  
