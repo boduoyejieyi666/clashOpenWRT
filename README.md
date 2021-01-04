@@ -12,6 +12,6 @@
 【 请有恩山账号的老手留言顶下这个 [帖子](https://www.right.com.cn/forum/thread-4053643-1-1.html) ：越过长城，走向世界！ 】             
 【 助理友推 [机场](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/youlian/jichang.md) 】         
 【 [openclash.ipk发布地址](https://github.com/vernesong/OpenClash/releases) 】          
-更多其他信息可见于：[x86_64 clashOpenWrt软路由固件半官方频道](https://t.me/clashOpenWRT233)       
+更多其他信息可见于：[x86_64 clashOpenWrt软路由固件非官方频道](https://t.me/clashOpenWRT233)       
 
 [返回主页](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)           
