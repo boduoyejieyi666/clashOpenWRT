@@ -1,5 +1,5 @@
 # clashOpenWrt
-【通用信息】：
+【通用信息】：      
 【[升级、切换、回滚、重置](https://t.me/OpenWRTcn/48)】        
 【相关说明见[主频道](https://t.me/OpenWRTcn)内置顶信息】     
 【openclash插件反馈区 (https://github.com/vernesong/OpenClash/issues)】
