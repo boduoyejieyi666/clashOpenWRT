@@ -1,7 +1,7 @@
 # clashOpenWrt
 【通用信息】：
-【升级、切换、回滚、重置 (https://t.me/OpenWRTcn/48)】
-【相关说明见主频道 (https://t.me/OpenWRTcn)内置顶信息】
+【[升级、切换、回滚、重置](https://t.me/OpenWRTcn/48)】        
+【相关说明见[主频道](https://t.me/OpenWRTcn)内置顶信息】     
 【openclash插件反馈区 (https://github.com/vernesong/OpenClash/issues)】
 【请使用支持解压.7z的软件 (https://cn.bandisoft.com/bandizip/)解压本文件】
 【PE中写盘出问题建议用这个1.2版本 (https://t.me/OpenWRTcn/8)】
